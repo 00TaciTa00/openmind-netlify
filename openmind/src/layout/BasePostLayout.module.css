@@ -1,0 +1,8 @@
+body {
+  background-color: var(--grayscale-20);
+}
+.main {
+  position: relative;
+  padding: 0 24px 136px;
+  background-color: var(--grayscale-20);
+}

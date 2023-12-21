@@ -1,0 +1,21 @@
+.complete {
+  display: inline-flex;
+  padding: 4px 12px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  border: 1px solid var(--Brown-40, #542F1A);
+  background: var(--Grayscale-10, #FFF);
+}
+
+.incomplete {
+  display: inline-flex;
+  padding: 4px 12px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  border: 1px solid var(--Grayscale-40, #818181);
+  background: var(--Grayscale-10, #FFF);
+}
